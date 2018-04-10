@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/MainMenu.unity
+    guid: 202fcc98bcff0db42b34e38b9a030f7c
+  - enabled: 1
+    path: Assets/_Scenes/TutorialScene.unity
+    guid: c3c0aeff8e45ee648ae065990e5f1d4a
+  - enabled: 1
+    path: Assets/_Scenes/HubWorld.unity
+    guid: 6f8249578f5a7074d9a81b86794e3fec
+  - enabled: 1
+    path: Assets/_Scenes/Levels/Level1.unity
+    guid: 3a520717e74a2314cb8684b5542239c2
+  - enabled: 1
+    path: Assets/_Scenes/Levels/Level2.unity
+    guid: 784787c485820d24ba28ca02e5ff13af
+  - enabled: 1
+    path: Assets/_Scenes/Levels/Level3.unity
+    guid: 594ce7c55404f424dbbb214793c6456b
+  - enabled: 1
+    path: Assets/_Scenes/Levels/Level4.unity
+    guid: 016fbc0a6e24f8b45a441a54c06a6378
+  - enabled: 1
+    path: Assets/_Scenes/Levels/BossLevel.unity
+    guid: c9263a82c03d6e04186f9fa9cb615128
+  - enabled: 1
+    path: Assets/_Scenes/QuitScene.unity
+    guid: c55efc715f87fe24496dbe5570d1939a
